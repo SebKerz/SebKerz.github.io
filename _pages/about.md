@@ -1,6 +1,3 @@
-# About me
-I am a Ph.D. student and Research Associate at the Chair of Automatic Control Engineering, Technical University Munich (TUM).
-
 # Research
 My main research interests are in the prediction, analysis and control of dynamical systems from data. In particular, I'm interested in the tradeoff between safety and performance, stochastic and robust decision-making under uncertainty and the intersection between machine learning and control/dynamical systems.
 
