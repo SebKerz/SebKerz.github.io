@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Research
 My main research interests are in the prediction, analysis and control of dynamical systems from data. In particular, I'm interested in the tradeoff between safety and performance, stochastic and robust decision-making under uncertainty and the intersection between machine learning and control/dynamical systems.
 
