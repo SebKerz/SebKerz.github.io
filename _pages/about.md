@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Research
-My main research interests are in the prediction, analysis and control of dynamical systems from data. In particular, I'm interested in the tradeoff between safety and performance, stochastic and robust decision-making under uncertainty and the intersection between machine learning and control/dynamical systems.
+My main research interests are in the prediction, analysis and control of dynamical systems from data. In particular, I'm interested in the tradeoff between safety and performance, stochastic and robust decision-making under uncertainty and the intersection between machine learning, control and dynamical systems.
 
 # Project work
 Human-robot collaboration and manipulation in uncertain environments
